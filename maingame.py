@@ -10,12 +10,12 @@ Type here: """)
 
 if chosen_intro == "2":
     print(""" Hello, I am Shea. 
-            I started computer programming at the age of 10. More coming soon...
-            --------------------------------------------------------------------
-            Social:
-            YouTube: @-Meme-Master-
-            GitHub: @AverageCodingKid
-            """)
+I started computer programming at the age of 10. More coming soon...
+--------------------------------------------------------------------
+Social:
+YouTube: @-Meme-Master-
+GitHub: @AverageCodingKid
+""")
      
     player1 = str(input("What would you like to name player 1 (You): "))
     name2 = str(input("What would you like to name player 2: "))
