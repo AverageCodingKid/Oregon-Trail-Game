@@ -52,7 +52,42 @@ GitHub: @AverageCodingKid
         # Test successful if this point is reached
         print("\nTest Complete...")
     
-    # Prompt user to choose an option again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # Prompt user to choose an option again once game end
     chosen_intro = input("""Options:
 1| Play the game again
 2| Learn About the creator
