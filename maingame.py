@@ -16,8 +16,7 @@ if chosen_intro == "2":
             YouTube: @-Meme-Master-
             GitHub: @AverageCodingKid
             """)
-
-while True:     
+     
     player1 = str(input("What would you like to name player 1 (You): "))
     name2 = str(input("What would you like to name player 2: "))
     name3 = str(input("What would you like to name player 3: "))
