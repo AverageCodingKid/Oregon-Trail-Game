@@ -55,7 +55,15 @@ elif chosen_intro == "1":
 6| Wagon Wheels
                         Type here: """)
 
+
+
+
+
+
 elif chosen_intro == "3":
     print("\nYou may find the source code here: https://raw.githubusercontent.com/AverageCodingKid/Oregon-Trail-Game/main/maingame.py\n")
 elif chosen_intro == "4":
     print("\nYou may submit feedback here: https://docs.google.com/forms/d/1r7coffgHkjaSxmx5NR1jm5iR57ZGhlicuafjfvuwcx0")
+
+else:
+    print("Character", chosen_intro, "Invalid")
