@@ -16,7 +16,10 @@ Social:
 YouTube: @-Meme-Master-
 GitHub: @AverageCodingKid
 """)
-     
+
+
+
+    # Introduction
     player1 = str(input("What would you like to name player 1 (You): "))
     name2 = str(input("What would you like to name player 2: "))
     name3 = str(input("What would you like to name player 3: "))
@@ -38,11 +41,8 @@ GitHub: @AverageCodingKid
     
     # Food
     food = 100
+    
 
-    # Main plot
-    print("")
-
-    # Introduction
     if chosen_intro == "1":
         print("Oregon Trail")
         print("Welcome to the Oregon trail", player1, "!", "\nMake sure to check out my YouTube channel @-Meme-Master-")
