@@ -42,7 +42,7 @@ GitHub: @AverageCodingKid
     # Food
     food = 100
     
-
+    # Play game
     if chosen_intro == "1":
         print("Oregon Trail")
         print("Welcome to the Oregon trail", player1, "!", "\nMake sure to check out my YouTube channel @-Meme-Master-")
